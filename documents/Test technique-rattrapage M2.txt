@@ -1,0 +1,20 @@
+Sujet Test Technique/Rattrapage Ethan ZERAH
+
+
+Partie gameplay :
+
+Reproduire le niveau 1-7 (Purifier) du jeu : Neon White
+Lien vidéo : https://youtu.be/d4xtXj5YkaY?si=4gtSlni3-eXp4UeW&t=753
+(Ne pas chercher à reproduire les visuels et effets à l'identique, Points bonus pour la reproduction du level design)
+Rendus : Build démo, projet accessible via git (utiliser gitignore et gitattributes), dépôt teams
+Evaluation : Gestion du git, Build fonctionnelle, Gestion de l'inventaire/Armes, Contrôles/Déplacements, IA ennemis, Boucle de gameplay, GameFeel, Qualité du code
+
+
+Partie Prog moteur :
+
+Réaliser un plugin fonctionnel permettant de reproduire de manière fonctionnelle le screen fourni en pièce jointe (gestion du préfix des fichiers en fonction de la classe)
+Rendu : Projet accessible via git (utiliser gitignore et gitattributes), dépôt teams
+Evaluation : Gestion du git, Création d'assets actions fonctionnelles, Qualité du code
+
+
+Me contacter sur Teams si besoin de plus d'informations fonctionnelles ou d'une démo du jeu
